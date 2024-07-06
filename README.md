@@ -1,4 +1,4 @@
-- Hola! tengo 20 años y soy estudiante de desarrollo de software, desde Argentina 🇦🇷. Apasionado por el desarrollo web, pero siempre explorando nuevos horizontes tecnológicos 🚀. 
+- ¡Hola! tengo 20 años y soy estudiante de desarrollo de software, desde Argentina 🇦🇷. Apasionado por el desarrollo web, pero siempre explorando nuevos horizontes tecnológicos 🚀. 
 Constantemente expandiendo mis habilidades y conocimientos 🔝. 
 Entusiasta por aprender y crecer en el mundo de la programación.
 
