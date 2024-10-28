@@ -31,7 +31,7 @@
 <span/>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png">
+  <img align="right" top="420" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png">
 </a>
 
 ### - 𝘍𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴
